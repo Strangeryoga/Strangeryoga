@@ -8,7 +8,7 @@ I love to code
 
 *   🌍  I'm based in Mumbai
 *   ✉️  You can contact me at [tejasdoke4@gmail.com](mailto:tejasdoke4@gmail.com)
-*   🧠  I'm learning MERN stack
+*   🧠  I'm learning the MERN stack, DevOps, Docker 
 *   ⚡  I believe coding is fundamental to literacy in the future
 
 ### Skills 
