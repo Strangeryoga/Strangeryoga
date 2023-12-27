@@ -9,7 +9,7 @@ I love to code
 *   🌍  I'm based in Mumbai
 *   ✉️  You can contact me at [tejasdoke4@gmail.com](mailto:tejasdoke4@gmail.com)
 *   🚀  I'm currently working on my [Portfolio](http://github.com/Strangeryoga/pf)
-*   🧠  I'm learning Next.js, Typescript, GraphQL
+*   🧠  I'm learning Next.js, TypeScript, GraphQL
 *   ⚡  I believe coding is fundamental to literacy in the future
 
 ### Skills 
