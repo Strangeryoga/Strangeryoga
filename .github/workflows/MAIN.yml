@@ -18,7 +18,20 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+outputs:
+output1: ${{ steps.step1.outputs.step1value }}
+output2: ${{ steps.step2.outputs.step2value }}
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - name: Step 1
+    id: step1
+    #run: echo "::set-output name = step1value::hello"
+    run: echo "step1value=hello" >> $GITHUB_OUTPUT
 
+ - name: Step 2
+    id: step2
+    #run: echo "::set-output name = step1value::hello"
+    run: echo "step2value=hello" >> $GITHUB_OUTPUT
 
     
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
